@@ -9,7 +9,7 @@ public class ProblemBProbability {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-
+        System.out.println("Hello it is me");
         while (in.hasNextInt()) {
             int games = in.nextInt();
             double p = in.nextDouble();
